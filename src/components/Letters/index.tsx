@@ -1,25 +1,20 @@
 import { Letter } from './styles';
 
+
 export function Letters() {
   return (
     <>
-      <Letter position={'q'}>
-        <p>Q</p>
+      <Letter position={'q'} src={'q'}>
       </Letter>
-      <Letter position={'u'}>
-        <p>u</p>
+      <Letter position={'u'} src={'u'}>
       </Letter>
-      <Letter position={'o'}>
-        <p>o</p>
+      <Letter position={'o'} src={'o'}>
       </Letter>
-      <Letter position={'t'}>
-        <p>t</p>
+      <Letter position={'t'} src={'t'}>
       </Letter>
-      <Letter position={'e'}>
-        <p>e</p>
+      <Letter position={'e'} src={'e'}>
       </Letter>
-      <Letter position={'s'}>
-        <p>s</p>
+      <Letter position={'s'} src={'s'}>
       </Letter>
     </>
   );
