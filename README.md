@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## :technologies: Technologies
+## Technologies
 
 This project was developed with the following technologies:
 
